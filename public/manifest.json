@@ -1,0 +1,22 @@
+{
+  "name": "CONEXÃO UNK - Sistema de Gerenciamento para DJs",
+  "short_name": "CONEXÃO UNK",
+  "description": "Sistema completo de gerenciamento para DJs e managers com agenda, financeiro, projetos e autocuidado.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#8b5cf6",
+  "background_color": "#0f0f23",
+  "categories": ["music", "productivity", "business"],
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ],
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "scope": "/",
+  "prefer_related_applications": false
+}
